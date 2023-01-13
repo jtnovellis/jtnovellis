@@ -1,6 +1,28 @@
-### Hi there 👋
+### Hi, I'm Jairo! 👋
 
-Here are some ideas to get you started:
+## You can find me on:
+- LinkedIn
+- Instagram
+- Facebook
+- Twitter
+
+## About me
+
+```
+const Jairo = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["React", "React Native", "Redux", "NextJS", "NodeJS", "NestJS", "Tailwind", "Git & GitHub"],
+  testing: ["Jest", "Cypress"],
+  database: ["MongoDB", "PostgreSQL"],
+  agile: "SCRUM",
+  architectures: ["MVC", "microservices"]
+  learning: {
+    Swift: "In process...",
+    Rust: "Waiting..."
+  }
+}
+```
 
 - 🔭 I’m currently looking for job as a Web Developer
 - 🌱 I’m currently learning a new programing languaje (Swift) and improving my stack (MERN)
