@@ -1,13 +1,14 @@
-### Hi, I'm Jairo! 👋
+## Hi, I'm Jairo! 👋
 
-## You can find me on:
-- LinkedIn
+# FullStack Developer 💻
+
+### You can find me on:
+- LinkedIn 
 - Instagram
 - Facebook
 - Twitter
 
-## About me
-
+### About me
 ```
 const Jairo = {
   pronouns: "He" | "Him",
@@ -24,11 +25,8 @@ const Jairo = {
 }
 ```
 
-- 🔭 I’m currently looking for job as a Web Developer
-- 🌱 I’m currently learning a new programing languaje (Swift) and improving my stack (MERN)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
