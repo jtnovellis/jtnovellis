@@ -3,8 +3,8 @@
 # FullStack Developer 💻
 
 ### You can find me on:
-- (LinkedIn)[https://www.linkedin.com/in/jairotoronovellis/]
-- (Twitter)[https://twitter.com/JairojairtoroN]
+- [LinkedIn](https://www.linkedin.com/in/jairotoronovellis/)
+- [Twitter](https://twitter.com/JairojairtoroN)
 
 ### About me
 ```
