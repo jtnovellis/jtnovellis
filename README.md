@@ -18,8 +18,8 @@ const Jairo = {
   architectures: ["MVC", "microservices"]
   learning: {
     Swift: "In process...",
-    Python: "On the list",
-    Rust: "On the list"
+    Python: "On list",
+    Rust: "On list"
   }
 }
 ```
